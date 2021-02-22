@@ -1,0 +1,1 @@
+Repositório dedicado para os estudos com Shell Script, do curso [Programação Shell Script - Automatizando Rotinas no Linux](https://www.udemy.com/course/programacao-shell-script/).
